@@ -1,2 +1,2 @@
-# Conversor-Circuitos
+# Projeto Circuitos-Digitais
 Calculadora de conversões
